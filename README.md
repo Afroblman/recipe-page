@@ -4,8 +4,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Afroblman/recipe-page.git)
+- Live Site URL: [Netlify](https://frontend-mentor-project-recipe-page.netlify.app/)
 
 ## My process
 
